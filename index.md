@@ -64,21 +64,35 @@ __Instructor__
 Java training organization
 
 ## Skills
-- Software Deployment
+
+### Backend Development
+- Java
 - Spring Framework
-- Jenkins CI/CD
-- CSS
 - Spring Boot
 - Software Design
-- Backend Development
-- Databases
-- Programming
-- Front-End Development
-- Medical Equipment
-- Java
+- Software Deployment
+- Jenkins CI/CD
 - HL7 Standards
-- Linux
+
+### Frontend Development
+- CSS
 - JavaScript
+- Front-End Development
+
+### Databases
+- Databases
+- Linux
+
+### DevOps & Middleware
+- Docker
+- Jenkins CI/CD
+- Apache
+- Nginx
+
+### Other Skills
+- Medical Equipment
+- Linux System Administration
+
 
 <!-- ### Footer
 
