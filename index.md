@@ -1,91 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luke Shi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Luke Shi
+Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:szz185@gmail.com">szz185@gmail.com</a>
+| <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">LinkedIn Profile</a>
 </div>
 
+## Open to Work
+Senior Java Software Engineer roles
 
 ## Currently
+Technical Project Manager at Aier Eye Hospital Group Co., Ltd., focusing on the implementation and development of LIS system and various other technical projects.
 
-Standing on the shoulders of giants
+## Specialized in
+- System architecture design
+- Technical architecture optimization
+- Product technology selection
+- Interface specifications
+- Leading technical challenges and development team guidance
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Research interests
+- Software deployment
+- Backend and frontend development
+- Database management
+- Middleware solutions
+- Operating systems
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 - 2024`
+__Lincoln University (NZ)__
+Master's degree, Applied Computing
+Activities and societies: gyms
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`1999 - 2003`
+__Air Force Aviation University__
+Bachelor's degree, Military Intelligence, General
+Skills: Photography, Computer Graphics, Databases, Programming
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2020`
+CSDN Top 10 Blogstar of 2019
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2023`
+Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2019 - Present`
+__Aier Eye Hospital Group Co., Ltd.__
+Technical Project Manager
 
-- Warden
-- Minted coins
+`2017 - 2019`
+__Instructor__
+Java training organization
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Skills
+- Software Deployment
+- Spring Framework
+- Jenkins CI/CD
+- CSS
+- Spring Boot
+- Software Design
+- Backend Development
+- Databases
+- Programming
+- Front-End Development
+- Medical Equipment
+- Java
+- HL7 Standards
+- Linux
+- JavaScript
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: January 2024 -->
