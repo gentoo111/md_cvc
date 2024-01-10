@@ -2,17 +2,7 @@
 layout: cv
 title: Luke Shi's CV
 ---
-<style type="text/css">
-    /* 调整年份样式 */
-    h1, h2, h3, h4, h5, h6 {
-      font-size: 1.5em; /* 或者适当的大小 */
-    }
-    
-    /* 缩小每一部分的间距 */
-    section {
-      margin-bottom: 20px; /* 或者适当的大小 */
-    }    
-</style>
+
 # Luke Shi
 
 Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
