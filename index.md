@@ -21,7 +21,7 @@ Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Gr
     With our beloved family and dog.
 -->
 ## Open to Work
-Senior Java Software Engineer roles
+**Senior Java Software Engineer roles**
 
 I am currently pursuing my studies, and I am available for part-time roles, dedicating up to 20 hours per week. Upon my graduation in November this year, I will be eligible for full-time employment. I am seeking opportunities as a Senior Java Software Engineer.
 
