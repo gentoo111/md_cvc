@@ -189,6 +189,9 @@ strong {
 	visibility: hidden;
 }
 
+#work-experience {
+	page-break-inside: avoid;
+}
 
 
 
