@@ -91,7 +91,7 @@ Java training organization
 
 ## Communication
 - Communicate with people with clear thinking and accurate understanding
-- 
+- Communicate with people
 
 ## Work Experience
 
