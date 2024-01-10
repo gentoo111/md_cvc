@@ -4,7 +4,9 @@ title: Luke Shi's CV
 ---
 
 # Luke Shi
+
 Senior & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
+
 
 <div id="webaddress">
 📞 Phone: 027-888-3395<br>
@@ -18,8 +20,6 @@ Senior & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
     Lost in contemplation,
     With our beloved family and dog.
 -->
-
-
 ## Open to Work
 Senior Java Software Engineer roles
 
