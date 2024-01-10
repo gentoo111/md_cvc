@@ -7,8 +7,8 @@ title: Luke Shi's CV
 Senior & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
 
 <div id="webaddress">
-📞 Phone: 027-888-3395</br>
-📧 Email: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a></br>
+📞 Phone: 027-888-3395<br>
+📧 Email: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
 🌐 LinkedIn: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">LinkedIn Profile</a>
 </div>
 
