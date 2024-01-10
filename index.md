@@ -5,7 +5,7 @@ title: Luke Shi's CV
 
 # Luke Shi
 
-enior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
+Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
 
 
 <div id="webaddress">
