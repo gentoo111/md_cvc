@@ -46,8 +46,7 @@ Technical Project Manager at Aier Eye Hospital Group Co., Ltd., focusing on the 
 
 `2023 - 2024`
 __Lincoln University (NZ)__
-Master's degree, Applied Computing
-Activities and societies: gyms
+Master of Applied Computing
 
 `1999 - 2003`
 __Air Force Aviation University__
