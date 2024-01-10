@@ -90,8 +90,8 @@ Java training organization
 - Years of project management experience, full project documentation is exported during the course of the project
 
 ## Communication
-- Communicate with people with clear thinking and accurate understanding
-- Communicate with people
+- Effective Listening & Clear Expression
+- Team Communication & Cross-Cultural Interaction
 
 ## Work Experience
 
