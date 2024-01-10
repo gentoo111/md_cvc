@@ -92,7 +92,7 @@ Java training organization
 ## Communication
 - Communicate with people with clear thinking and accurate understanding
 
-## Experience
+## Work Experience
 
 `2019 - 2023`
 __AIER EYE, ChangSha__
@@ -112,7 +112,7 @@ Instructor
 - Goal to make students become excellent Java programmers under my guidance
 - Trained more than 1000 students in two years
 
-## Experience
+## Project Development Experience
 
 `2016.10 - 2016.12`
 __Agricultural Traceability Platform__
