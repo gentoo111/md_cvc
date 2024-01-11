@@ -73,8 +73,8 @@ __爱尔眼科医院集团股份有限公司__
 高级Java软件工程师 & 技术项目经理
 
 `2017 - 2019`
-__讲师__
-Java培训机构
+__黑马程序员__
+讲师 & Java软件工程师
 
 ## 技能
 - 后端: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
