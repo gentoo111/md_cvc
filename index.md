@@ -106,6 +106,8 @@ Project Manager
 - Responsible for product technology selection, design of product technology architecture, interface specifications
 - Research and pre-study of key technical difficulties
 - Lead the team of various challenges and technical difficulties, technical guidance and training for the development team
+Senior Java Software Engineer
+- Responsible for the development of the core business of the hospital information system
 
 `2017 - 2019`
 __DARK HORSE PROGRAMMER, ChangSha__
@@ -159,10 +161,9 @@ __Intelligent Agriculture IoT__
 
 `2019.04 - 2024.01`
 __Aier Laboratory Information System (ALIS)__
-- Led the overall system development, including design, development, testing, and deployment
-- Collaborated closely with other developers to ensure project completion on time
-- Engaged in communication and coordination with relevant hospital departments
-- Enhanced teamwork and problem-solving abilities
+- Implemented integration of LIS with medical equipment using HL7 standards
+- Designed and completed the Quality Control module for LIS, ensuring quality assurance of test results
+- Developed the LIS system's General and Pathological Reporting modules, facilitating the reporting of laboratory results
 
 `2019.04 - 2023.05`
 __Internet Hospital System__
