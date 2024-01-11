@@ -1,197 +1,193 @@
 ---
 layout: cv
-title: Luke Shi's CV
+title: 史振洲的简历
 ---
+<!-- 在中文简历的Markdown文件顶部 -->
 <div style="text-align: right;">
-  <a href="http://cvc.anymk.com/">中文版</a> | English Version
+  <a href="http://cv.anymk.com/">English Version</a> | 中文版
 </div>
-# Luke Shi
+# 史振洲
 
-Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
+高级Java软件工程师 & 技术项目经理 - 爱尔眼科医院集团股份有限公司
 
 
 <div id="webaddress">
-📞 Phone: 027-888-3395<br>🌐
-📧 Email: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
-🌐 LinkedIn: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">Zhenzhou (Luke) Shi</a>
+📞 电话: 027-888-3395<br>
+📧 电子邮件: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
+🌐 领英: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">史振洲 (Luke) Shi</a>
 </div>
 
-<!-- 
-    <h4>Dream:</h4> 
-    Living by the sea,
-    Lost in contemplation,
-    With our beloved family and dog.
--->
-## Open to Work
-**Senior Java Software Engineer roles**
+## 寻求工作机会
+**高级Java软件工程师职位**
 
-I am currently pursuing my studies, and I am available for part-time roles, dedicating up to 20 hours per week. Upon my graduation in November this year, I will be eligible for full-time employment. I am seeking opportunities as a Senior Java Software Engineer.
+我目前正在继续我的学业，可以提供每周最多20小时的兼职工作时间。本年11月毕业后，我将可以全职工作。我正在寻找高级Java软件工程师的职位机会。
 
-## Currently
-Technical Project Manager at Aier Eye Hospital Group Co., Ltd., focusing on the implementation and development of LIS system and various other technical projects.
+## 目前状态
+爱尔眼科医院集团股份有限公司的技术项目经理，专注于实施和开发LIS系统以及其他各种技术项目。
 
-## Specialized in
-- System architecture design
-- Technical architecture optimization
-- Product technology selection
-- Interface specifications
-- Leading technical challenges and development team guidance
+## 专长领域
+- 系统架构设计
+- 技术架构优化
+- 产品技术选择
+- 接口规范
+- 领导技术挑战和开发团队指导
 
-## Research interests
-- Software deployment
-- Backend and frontend development
-- Database management
-- Middleware solutions
-- Operating systems
+## 研究兴趣
+- 软件部署
+- 后端和前端开发
+- 数据库管理
+- 中间件解决方案
+- 操作系统
 
-## Education
+## 教育经历
 
 `2023 - 2024`
-__Lincoln University (NZ)__
-Master of Applied Computing
+__林肯大学 (新西兰)__
+应用计算硕士
 
 `1999 - 2003`
-__Air Force Aviation University__
-Bachelor's degree, Military Intelligence, General
-Skills: Photography, Computer Graphics, Databases, Programming
+__空军航空大学__
+军事情报学士学位
+技能: 摄影、计算机图形、数据库、编程
 
-## Awards & Originality
+## 获奖 & 原创性
 
-- CSDN Blog Expert, CSDN Top 10 Blogstar of 2019
-- More than 300 original technical articles, total visits 1.9 million
+- CSDN博客专家，2019年CSDN十大博客之星
+- 发表超过300篇原创技术文章，总访问量达190万次
 
-## Publications
+## 出版物
 
 `2023`
-Algorithms Around You: Interviews, Promotions and Engineering (Traditional Chinese Edition) Kindle Edition, Amazon
+《你身边的算法：面试、晋升与工程》(繁体中文版) Kindle电子书, 亚马逊
 
-## Occupation
+## 职业生涯
 
-`2019 - Present`
-__Aier Eye Hospital Group Co., Ltd.__
-Senior Java Software Engineer & Technical Project Manager
+`2019 - 至今`
+__爱尔眼科医院集团股份有限公司__
+高级Java软件工程师 & 技术项目经理
 
 `2017 - 2019`
-__Instructor__
-Java training organization
+__讲师__
+Java培训机构
 
-## Skills
-- Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
+## 技能
+- 后端: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
-- Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
-- Databases: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
-- Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
-- Middleware: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
-- Operating Systems: Ubuntu, CentOS, MacOS, Windows
-- Other Tools: Jenkins CI/CD, Docker, Git, SVN, UML, PowerDeginer, Xmind, Axure
-- HL7 Standards, Medical Equipment
+- 前端: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
+- 数据库: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
+- 网络服务器: Apache, Nginx, Tomcat, Netty, Jetty
+- 中间件: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
+- 操作系统: Ubuntu, CentOS, MacOS, Windows
+- 其他工具: Jenkins CI/CD, Docker, Git, SVN, UML, PowerDesigner, Xmind, Axure
+- HL7标准, 医疗设备
 
-## Programming and Development
-- Proficiency in developing web projects using Java and front-end technologies
+## 编程和开发
+- 熟练使用Java和前端技术开发Web项目
 
-## Project Management & Leadership
-- Years of project management experience, full project documentation is exported during the course of the project
+## 项目管理 & 领导力
+- 多年项目管理经验，在项目过程中完整导出项目文档
 
-## Communication
-- Effective Listening & Clear Expression
-- Team Communication & Cross-Cultural Interaction
+## 沟通
+- 有效倾听 & 清晰表达
+- 团队沟通 & 跨文化互动
 
-## Work Experience
+## 工作经历
 
 `2019 - 2023`
-__AIER EYE, ChangSha__
-Project Manager
-- Responsible for system architecture design work
-- Responsible for optimizing the existing technical architecture, improve system stability, scalability, security
-- Responsible for product technology selection, design of product technology architecture, interface specifications
-- Research and pre-study of key technical difficulties
-- Lead the team of various challenges and technical difficulties, technical guidance and training for the development team
-Senior Java Software Engineer
-- Responsible for the development of the core business of the hospital information system
+__爱尔眼科, 长沙__
+项目经理
+- 负责系统架构设计工作
+- 负责优化现有技术架构，提高系统稳定性、可扩展性、安全性
+- 负责产品技术选择，设计产品技术架构，接口规范
+- 研究和预研关键技术难题
+- 领导团队应对各种挑战和技术难题，为开发团队提供技术指导和培训
+  高级Java软件工程师
+- 负责医院信息系统核心业务的开发
 
 `2017 - 2019`
-__DARK HORSE PROGRAMMER, ChangSha__
-Instructor
-- As an instructor in a training organization, my job is to provide students with high-quality Java programming training courses
-- Design and develop lesson plans, including syllabus, case studies, programming practice, etc.
-- Use interactive teaching methods to actively involve students in the classroom during the course of instruction
-- Goal to make students become excellent Java programmers under my guidance
-- Trained more than 1000 students in two years
+__黑马程序员, 长沙__
+讲师
+- 在培训机构担任讲师，我的工作是为学生提供高质量的Java编程培训课程
+- 设计和开发课程计划，包括教学大纲、案例研究、编程实践等
+- 使用互动教学方法，使学生在教学过程中积极参与课堂
+- 目标是在我的指导下，使学生成为优秀的Java程序员
+- 两年内培训了1000多名学生
 
-## Project Development Experience
+## 项目开发经验
 
 `2016.10 - 2016.12`
-__Agricultural Traceability Platform__
-- Project management for the quality traceability system for pork products
-- Responsible for project development, testing, and maintenance support
-- Overall management and control of project progress
-- Timely completion of company-assigned tasks
+__农业可追溯平台__
+- 负责猪肉产品质量可追溯系统的项目管理
+- 负责项目开发、测试和维护支持
+- 全面管理和控制项目进度
+- 及时完成公司分配的任务
 
 `2017.01 - 2017.03`
-__Yili Steel Network (E-commerce)__
-- Provided online steel sales services for steel mills and traders
-- Developed a comprehensive steel procurement solution integrating purchasing, logistics, processing, and supply chain finance
-- Implemented smart supply chain finance products based on different product categories
-- Built an Internet smart cloud logistics system using IoT and blockchain technology
+__宜利钢铁网（电商）__
+- 为钢厂和贸易商提供在线钢材销售服务
+- 开发了集采购、物流、加工和供应链金融于一体的全面钢材采购解决方案
+- 根据不同产品类别实施智能供应链金融产品
+- 利用物联网和区块链技术构建了互联网智能云物流系统
 
 `2017.06 - 2017.11`
-__MOON Scaffold__
-- Developed an open-source backend scaffold project using SpringBoot
-- Implemented button-level access control and separated frontend and backend using JSON for data interaction
-- Introduced quartz scheduled tasks and cloud storage services
+__MOON脚手架__
+- 使用SpringBoot开发了一个开源后端脚手架项目
+- 实现了按钮级别的访问控制，并使用JSON进行数据交互，实现了前后端分离
+- 引入了quartz定时任务和云存储服务
 
 `2018.01 - 2018.11`
-__IT Easy Learning Online Education Platform__
-- Developed a mainstream microservice-based online education solution using SpringCloud
-- Led technical selection, framework construction, and interface and function development
-- Setup development environment, server deployment, and source code management
-- Participated in innovative product solution design and technical discussions
+__IT易学在线教育平台__
+- 使用SpringCloud开发了一套主流的微服务在线教育解决方案
+- 领导技术选择、框架搭建以及接口和功能开发
+- 设置开发环境、服务器部署和源代码管理
+- 参与创新产品解决方案设计和技术讨论
 
 `2018.02 - 2018.04`
-__AnyMK Single Page Application__
-- Responsive single-page application with a lightweight microservices architecture
-- Supported multiple databases and implemented frontend-backend separation using JSON for data interaction
-- Introduced quartz scheduled tasks and cloud storage services
+__AnyMK单页应用__
+- 响应式单页应用，采用轻量级微服务架构
+- 支持多种数据库，并使用JSON进行数据交互，实现前后端分离
+- 引入了quartz定时任务和云存储服务
 
 `2018.10 - 2019.03`
-__Intelligent Agriculture IoT__
-- Responsible for the maintenance and development of microservices based on spring cloud
-- Researched and developed related middleware products
-- Led the overall technical and business architecture planning
+__智慧农业物联网__
+- 负责基于spring cloud的微服务维护和开发
+- 研究和开发相关中间件产品
+- 领导整体技术和业务架构规划
 
 `2019.04 - 2024.01`
-__Aier Laboratory Information System (ALIS) - Lead Project__
-- Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
-- Conceptualized and executed the Quality Control module within ALIS, establishing robust quality assurance protocols for laboratory test results, thereby reducing errors and improving reliability.
-- Engineered and deployed comprehensive General and Pathological Reporting modules for ALIS, streamlining the process of generating precise and detailed laboratory reports for clinical decision-making.
+__爱尔实验室信息系统 (ALIS) - 主导项目__
+- 领导实验室信息系统 (LIS) 与各种医疗设备的无缝集成，遵循HL7标准，提高了互操作性和数据准确性。
+- 设计并实施了ALIS内的质量控制模块，建立了健全的实验室测试结果的质量保证协议，从而减少了错误并提高了可靠性。
+- 开发并部署了ALIS系统的综合性普通和病理报告模块，简化了生成精确和详细的实验室报告的过程，以便临床决策。
+
 `2019.04 - 2023.05`
-__Internet Hospital System__
-- Responsible for managing patient information, appointment, and treatment processes
-- Collaborated closely with various internal hospital departments
-- Participated in requirements analysis, system design, and development testing
-- Ensured system stability and functional integrity
+__互联网医院系统__
+- 负责管理患者信息、预约和治疗流程
+- 与医院内部各部门紧密合作
+- 参与需求分析、系统设计和开发测试
+- 确保系统稳定性和功能完整性
 
 `2021.10 - 2022.05`
-__Supply Chain Portal System (ASCP)__
-- Project architect and development manager, involved in requirement analysis and definition
-- Designed the project architecture for scalability, maintainability, and reliability
-- Developed basic functional modules to implement essential system features
-- Managed and coordinated development and testing teams to improve collaboration and efficiency
+__供应链门户系统 (ASCP)__
+- 作为项目架构师和开发经理，参与需求分析和定义
+- 设计项目架构，确保可扩展性、可维护性和可靠性
+- 开发基本功能模块以实现系统的基本特性
+- 管理并协调开发和测试团队，提高合作效率
 
 `2022.10 - 2023.03`
-__Clinical Pathway Management System__
-- Participated in requirement analysis and discussion
-- Involved in basic data maintenance and configuration management to ensure system data accuracy and integrity
-- Participated in system testing and acceptance to ensure quality and stability
+__临床路径管理系统__
+- 参与需求分析和讨论
+- 参与基础数据维护和配置管理，确保系统数据的准确性和完整性
+- 参与系统测试和验收，确保质量和稳定性
 
 `2022.11 - 2024.01`
-__Hospital Grade Review System (AGRV)__
-- Led the overall system development, including design, development, testing, and deployment
-- Coordinated tasks to ensure project completion on time
-- Communicated and coordinated with relevant hospital departments
-- Participated in system testing and deployment to ensure system quality and stability
-- Enhanced technical skills, teamwork, and problem-solving abilities
+__医院等级评审系统 (AGRV)__
+- 领导整个系统的开发，包括设计、开发、测试和部署
+- 协调任务以确保按时完成项目
+- 与相关医院部门沟通和协调
+- 参与系统测试和部署，确保系统质量和稳定性
+- 提升了技术技能、团队合作和解决问题的能力
 
-<!-- ### Footer
+<!-- ### 页脚
 
-Last updated: January 2024 -->
+最后更新：2024年1月 -->
