@@ -74,7 +74,8 @@ __Instructor__
 Java training organization
 
 ## Skills
-- Back-end: Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
+- Back-end: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
+- Python: Django, Flask, Pandas
 - Front-end: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
 - Databases: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
 - Web Servers: Apache, Nginx, Tomcat, Netty, Jetty
