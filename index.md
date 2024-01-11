@@ -160,11 +160,10 @@ __Intelligent Agriculture IoT__
 - Led the overall technical and business architecture planning
 
 `2019.04 - 2024.01`
-__Aier Laboratory Information System (ALIS)__
-- Implemented integration of LIS with medical equipment using HL7 standards
-- Designed and completed the Quality Control module for LIS, ensuring quality assurance of test results
-- Developed the LIS system's General and Pathological Reporting modules, facilitating the reporting of laboratory results
-
+__Aier Laboratory Information System (ALIS) - Lead Project__
+- Spearheaded the seamless integration of the Laboratory Information System (LIS) with diverse medical equipment adhering to HL7 standards, enhancing interoperability and data accuracy.
+- Conceptualized and executed the Quality Control module within ALIS, establishing robust quality assurance protocols for laboratory test results, thereby reducing errors and improving reliability.
+- Engineered and deployed comprehensive General and Pathological Reporting modules for ALIS, streamlining the process of generating precise and detailed laboratory reports for clinical decision-making.
 `2019.04 - 2023.05`
 __Internet Hospital System__
 - Responsible for managing patient information, appointment, and treatment processes
