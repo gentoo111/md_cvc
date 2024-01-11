@@ -4,7 +4,7 @@ title: 史振洲的简历
 ---
 <!-- 在中文简历的Markdown文件顶部 -->
 <div style="text-align: right;">
-  <a href="http://cv.anymk.com/">🌍 English</a> | 中文
+  🌍<a href="http://cv.anymk.com/"> English</a> | 中文
 </div>
 # 史振洲
 
