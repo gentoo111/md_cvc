@@ -17,6 +17,12 @@ title: 史振洲的简历
 🌐 领英: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">史振洲 (Luke) Shi</a>
 </div>
 
+<!-- 
+    <h4>梦想:</h4> 
+    养条狗，
+    住在海边，
+    和家人每天望着大海发呆。
+-->
 ## 寻求工作机会
 **高级Java软件工程师职位**
 
