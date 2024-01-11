@@ -2,7 +2,9 @@
 layout: cv
 title: Luke Shi's CV
 ---
-
+<div style="text-align: right;">
+  <a href="http://cvc.anymk.com/">中文版</a> | English Version
+</div>
 # Luke Shi
 
 Senior Java Software Engineer & Technical Project Manager - Aier Eye Hospital Group Co., Ltd.
