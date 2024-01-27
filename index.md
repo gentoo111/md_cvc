@@ -81,11 +81,21 @@ __黑马程序员__
 - 网络服务器: Apache, Nginx, Tomcat, Netty, Jetty
 - 中间件: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
 - 操作系统: Ubuntu, CentOS, MacOS, Windows
-- 其他工具: Jenkins CI/CD, Docker, Git, SVN, UML, PowerDesigner, Xmind, Axure
+- 方法论: 敏捷开发（Scrum），领域驱动设计（DDD），测试驱动开发（TDD），行为驱动开发（BDD），持续集成与持续部署（CI/CD）
+- 其他工具: Jenkins, Docker, Git, SVN, UML, PowerDesigner, Xmind, Axure
 - HL7标准, 医疗设备
 
 ## 编程和开发
-- 熟练使用Java和前端技术开发Web项目
+后端: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
+Python: Django, Flask, Pandas
+前端: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
+数据库: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
+网络服务器: Apache, Nginx, Tomcat, Netty, Jetty
+中间件: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
+操作系统: Ubuntu, CentOS, MacOS, Windows
+开发流程与方法论: 敏捷开发（包括Scrum和Kanban管理方法），领域驱动设计（DDD），持续集成与持续部署（CI/CD），测试驱动开发（TDD），行为驱动开发（BDD）
+其他工具: Jenkins CI/CD, Docker, Git, SVN, UML, PowerDesigner, Xmind, Axure
+HL7标准, 医疗设备熟练使用Java和前端技术开发Web项目
 
 ## 项目管理 & 领导力
 - 多年项目管理经验，在项目过程中完整导出项目文档
