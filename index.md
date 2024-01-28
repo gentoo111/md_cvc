@@ -64,6 +64,7 @@ __空军航空大学__
 《你身边的算法：面试、晋升与工程》(繁体中文版) Kindle电子书, 亚马逊
 
 ## 技能
+- 方法论: 商业分析（BA），敏捷开发（Scrum），领域驱动设计（DDD），测试驱动开发（TDD），行为驱动开发（BDD），持续集成与持续部署（CI/CD）
 - 后端: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
 - 前端: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
@@ -71,7 +72,6 @@ __空军航空大学__
 - 网络服务器: Apache, Nginx, Tomcat, Netty, Jetty
 - 中间件: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
 - 操作系统: Ubuntu, CentOS, MacOS, Windows
-- 方法论: 敏捷开发（Scrum），领域驱动设计（DDD），测试驱动开发（TDD），行为驱动开发（BDD），持续集成与持续部署（CI/CD）
 - 其他工具: Jenkins, Docker, Git, SVN, UML, PowerDesigner, Xmind, Axure
 - HL7标准, 医疗设备
 - 中文, 英文
