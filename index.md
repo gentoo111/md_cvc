@@ -40,7 +40,7 @@ title: 史振洲的简历
 - 后端: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
 - Python: Django, Flask, Pandas
 - 前端: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
-- 数据库: Oracle, MySQL/MariaDB, MongoDB, Redis, Memcached
+- 数据库: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
 - 网络服务器: Apache, Nginx, Tomcat, Netty, Jetty
 - 中间件: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
 - 操作系统: Ubuntu, CentOS, macOS, Windows
