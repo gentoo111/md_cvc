@@ -13,7 +13,7 @@ title: 史振洲的简历
 📞 电话: 027-888-3395<br>
 📧 电子邮件: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
 🌐 领英: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">Zhenzhou (Luke) Shi</a><br>
-🐙 GitHub: <a href="https://github.com/gentoo111">gentoo111</a>
+🐙 GitHub: <a href="https://github.com/gentoo111">gentoo111</a><br>
 📄 在线简历: <a href="https://cvc.anymk.com/">https://cvc.anymk.com/</a>
 </div>
 
