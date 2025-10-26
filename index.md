@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: CV
 title: Luke - 全栈软件工程师
 ---
 
