@@ -27,7 +27,7 @@ title: 史振洲 (Luke) - 全栈软件工程师
     </a>
   </div>
   
-  <p class="cv-meta">新西兰奥克兰 | 开放工作签证（有效期至2027年12月）</p>
+  <p class="cv-meta">新西兰奥克兰</p>
 </div>
 
 <section class="cv-section">
