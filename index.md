@@ -16,7 +16,7 @@ title: Luke - 全栈软件工程师
     <a href="https://github.com/gentoo111" target="_blank" rel="noopener">
       <i class="fab fa-github cv-contact-icon"></i> GitHub
     </a>
-    <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/" target="_blank" rel="noopener">
+    <a href="https://www.linkedin.com/in/zhenzhou-shi/" target="_blank" rel="noopener">
       <i class="fab fa-linkedin cv-contact-icon"></i> LinkedIn
     </a>
     <a href="mailto:szz185@gmail.com">
