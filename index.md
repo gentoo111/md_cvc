@@ -1,176 +1,513 @@
 ---
 layout: cv
-title: 史振洲的简历
+title: 史振洲 (Luke) - 全栈软件工程师
 ---
-<!-- 在中文简历的Markdown文件顶部 -->
-<div style="text-align: right;">
+
+<!-- 语言切换 -->
+<div style="text-align: right; margin-bottom: 1rem;">
   🌍&nbsp;<a href="http://cv.anymk.com/">English</a> | 中文
 </div>
-# 史振洲
-高级Java软件工程师
 
-<div id="webaddress">
-📞 电话: 027-888-3395<br>
-📧 电子邮件: <a href="mailto:szz185@gmail.com">szz185@gmail.com</a><br>
-🌐 领英: <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/">Zhenzhou (Luke) Shi</a><br>
-🐙 GitHub: <a href="https://github.com/gentoo111">gentoo111</a><br>
-📄 在线简历: <a href="https://cvc.anymk.com/">https://cvc.anymk.com/</a>
+<div class="cv-header">
+  <h1>史振洲 (Luke)</h1>
+  <p class="cv-tagline">全栈软件工程师 | 机器学习爱好者 | 10年以上经验</p>
+  
+  <div class="cv-contact">
+    <a href="https://github.com/gentoo111" target="_blank" rel="noopener">
+      <i class="fab fa-github cv-contact-icon"></i> GitHub
+    </a>
+    <a href="https://www.linkedin.com/in/zhenzhou-shi-0a547b29b/" target="_blank" rel="noopener">
+      <i class="fab fa-linkedin cv-contact-icon"></i> LinkedIn
+    </a>
+    <a href="mailto:szz185@gmail.com">
+      <i class="fas fa-envelope cv-contact-icon"></i> szz185@gmail.com
+    </a>
+    <a href="tel:+64278883395">
+      <i class="fas fa-phone cv-contact-icon"></i> +64 27 888 3395
+    </a>
+  </div>
+  
+  <p class="cv-meta">新西兰奥克兰 | 开放工作签证（有效期至2027年12月）</p>
 </div>
 
-<!-- 
-    <h4>梦想:</h4> 
-    养条狗，
-    住在海边，
-    和家人每天望着大海发呆。
--->
-## 寻求工作机会
-**高级Java软件工程师职位**
+<section class="cv-section">
+  <h2>个人简介</h2>
+  <div class="cv-summary">
+    拥有10年以上经验的全栈软件工程师，专注于后端系统、前端开发和团队领导。擅长使用微服务和容器化部署架构可扩展的云原生系统。使用 Jenkins、GitHub Actions 和 Docker 实施 CI/CD 流水线，自动化构建、测试和部署阶段，显著缩短发布时间并提高环境一致性。具备强大的沟通能力和协作式软件开发方法。近期工作包括在 NIWA 的机器学习项目和在 CORDE 的 React Native 移动应用。寻求在新西兰科技团队中发挥影响力的工程师职位。
+  </div>
+</section>
 
-## 目前状态
-林肯大学应用计算机硕士在读学生，拥有8年Java开发经验。寻求后端或前端开发职位，带来强大的分析能力和团队协作精神。在完成硕士学位期间，兴奋地期待每周能为有意义的项目贡献20小时。11月份毕业后将可以全职工作。
+<section class="cv-section">
+  <h2>技术专长</h2>
+  
+  <div class="skills-category">
+    <h3>编程语言</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">Java</span>
+      <span class="skill-tag">Python</span>
+      <span class="skill-tag">C#</span>
+      <span class="skill-tag">TypeScript</span>
+      <span class="skill-tag">JavaScript</span>
+      <span class="skill-tag">R</span>
+      <span class="skill-tag">SQL</span>
+      <span class="skill-tag">Bash</span>
+    </div>
+  </div>
 
-## 专长领域
-- 擅长使用Java进行后端开发以及使用前端技术打造高效的用户界面
-- 系统设计和架构优化，提升产品性能和可维护性
-- 领导技术团队，并有效管理复杂项目和挑战
-- 强大的沟通能力，擅长有效倾听、清晰表达，以及在多元文化环境中促进团队合作
+  <div class="skills-category">
+    <h3>前端技术</h3>
+    <div class="skills-tags">
+      <span class="skill-tag frontend">React</span>
+      <span class="skill-tag frontend">React Native</span>
+      <span class="skill-tag frontend">Vue.js</span>
+      <span class="skill-tag frontend">Angular</span>
+      <span class="skill-tag frontend">Next.js</span>
+      <span class="skill-tag frontend">jQuery</span>
+      <span class="skill-tag frontend">Tailwind CSS</span>
+      <span class="skill-tag frontend">Material-UI</span>
+    </div>
+  </div>
 
-## 技能
-- 方法论: 商业分析（BA），敏捷开发（Scrum），领域驱动设计（DDD），测试驱动开发（TDD），行为驱动开发（BDD），持续集成与持续部署（CI/CD）
-- 后端: Java, Spring, SpringBoot, SpringCloud, Hibernate, MyBatis, JPA, Struts2, FreeMarker, WebService, POI, Shiro, SpringSecurity
-- Python: Django, Flask, Pandas
-- 前端: Node.js, AngularJS, VUE, JQuery, LayUI, EasyUI
-- 数据库: Oracle, MySQL/MariaDB, PostgreSQL, MongoDB, Redis, Memcached
-- 网络服务器: Apache, Nginx, Tomcat, Netty, Jetty
-- 中间件: ActiveMQ, RabbitMQ, Kafka, Solr, ElasticSearch, LogStash, Kibana, Dubbo, Zookeeper
-- 操作系统: Ubuntu, CentOS, macOS, Windows
-- 其他工具: Jenkins, Docker, Git, SVN, UML, PowerDesigner, Xmind, Axure
-- HL7标准, 医疗设备
-- 中文, 英文
+  <div class="skills-category">
+    <h3>后端技术</h3>
+    <div class="skills-tags">
+      <span class="skill-tag backend">Spring Boot/Cloud</span>
+      <span class="skill-tag backend">JPA</span>
+      <span class="skill-tag backend">Node.js</span>
+      <span class="skill-tag backend">WebService</span>
+      <span class="skill-tag backend">RESTful</span>
+      <span class="skill-tag backend">Django</span>
+      <span class="skill-tag backend">Flask</span>
+      <span class="skill-tag backend">FastAPI</span>
+      <span class="skill-tag backend">GraphQL</span>
+    </div>
+  </div>
 
-## 工作经历
+  <div class="skills-category">
+    <h3>云计算/DevOps</h3>
+    <div class="skills-tags">
+      <span class="skill-tag cloud">Kubernetes</span>
+      <span class="skill-tag cloud">Docker</span>
+      <span class="skill-tag cloud">Jenkins</span>
+      <span class="skill-tag cloud">Git</span>
+      <span class="skill-tag cloud">Azure</span>
+      <span class="skill-tag cloud">AWS</span>
+      <span class="skill-tag cloud">腾讯云</span>
+      <span class="skill-tag cloud">Linux</span>
+      <span class="skill-tag cloud">CI/CD</span>
+    </div>
+  </div>
 
-`2019 - 2023`
-__爱尔眼科, 长沙__
-高级Java软件工程师 & 项目经理
-- 负责 HIS 系统中实验室信息系统（LIS）的核心业务开发重点工作
-- 负责系统架构设计工作
-- 负责优化现有技术架构，提高系统稳定性、可扩展性、安全性
-- 负责产品技术选择，设计产品技术架构，接口规范
-- 研究和预研关键技术难题
-- 领导团队应对各种挑战和技术难题，为开发团队提供技术指导和培训
+  <div class="skills-category">
+    <h3>数据库</h3>
+    <div class="skills-tags">
+      <span class="skill-tag database">Oracle</span>
+      <span class="skill-tag database">PostgreSQL</span>
+      <span class="skill-tag database">MongoDB</span>
+      <span class="skill-tag database">Redis</span>
+      <span class="skill-tag database">MySQL</span>
+      <span class="skill-tag database">SQL Server</span>
+      <span class="skill-tag database">SQLite</span>
+      <span class="skill-tag database">ElasticSearch</span>
+    </div>
+  </div>
 
-`2017 - 2019`
-__黑马程序员, 长沙__
-讲师 & Java软件工程师
-- 在培训机构担任讲师，我的工作是为学生提供高质量的Java编程培训课程
-- 设计和开发课程计划，包括教学大纲、案例研究、编程实践等
-- 使用互动教学方法，使学生在教学过程中积极参与课堂
-- 目标是在我的指导下，使学生成为优秀的Java程序员
-- 两年内培训了1000多名学生
+  <div class="skills-category">
+    <h3>GIS/地图</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">ArcGIS</span>
+      <span class="skill-tag">QGIS</span>
+      <span class="skill-tag">Leaflet.js</span>
+      <span class="skill-tag">GeoPandas</span>
+      <span class="skill-tag">Shapely</span>
+      <span class="skill-tag">OpenLayers</span>
+    </div>
+  </div>
 
-## 教育经历
+  <div class="skills-category">
+    <h3>HL7/医疗</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">HL7 标准</span>
+      <span class="skill-tag">医疗设备集成</span>
+    </div>
+  </div>
 
-`2023 - 在读`
-__林肯大学 (新西兰)__
-应用计算硕士
+  <div class="skills-category">
+    <h3>机器学习/数据</h3>
+    <div class="skills-tags">
+      <span class="skill-tag ml">TensorFlow</span>
+      <span class="skill-tag ml">Keras</span>
+      <span class="skill-tag ml">PyTorch</span>
+      <span class="skill-tag ml">Scikit-learn</span>
+      <span class="skill-tag ml">Pandas</span>
+      <span class="skill-tag ml">NumPy</span>
+      <span class="skill-tag ml">Matplotlib</span>
+      <span class="skill-tag ml">Seaborn</span>
+    </div>
+  </div>
 
-课程: Python, 商业分析，GIS, 高级程序设计，高级数据库管理，工作室项目, 行业项目
+  <div class="skills-category">
+    <h3>测试</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">Selenium</span>
+      <span class="skill-tag">Cypress</span>
+      <span class="skill-tag">JUnit</span>
+      <span class="skill-tag">PyTest</span>
+      <span class="skill-tag">Postman</span>
+    </div>
+  </div>
 
-`2016 - 2017`
-进行了为期一年的Java开发培训
+  <div class="skills-category">
+    <h3>方法论</h3>
+    <div class="skills-tags">
+      <span class="skill-tag">DDD</span>
+      <span class="skill-tag">TDD</span>
+      <span class="skill-tag">BDD</span>
+      <span class="skill-tag">敏捷/Scrum</span>
+      <span class="skill-tag">业务分析</span>
+    </div>
+  </div>
+</section>
 
-`1999 - 2003`
-__空军航空大学__
-军事情报学士学位
+<section class="cv-section">
+  <h2>工作经历</h2>
+  
+  <div class="timeline">
+    <!-- CORDE -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">CORDE</div>
+          <div class="timeline-role">全栈开发工程师（合同）</div>
+          <div class="timeline-location">基督城 | 远程</div>
+        </div>
+        <div class="timeline-date">2024年6月 - 至今</div>
+      </div>
+      
+      <div class="timeline-content">
+        <p class="timeline-description">
+          领导企业应用开发，包括跨平台移动解决方案和自动化现场操作系统。
+        </p>
+        
+        <div class="timeline-projects">
+          <h4>核心项目</h4>
+          
+          <div class="project-item">
+            <div class="project-name">CORDE 移动应用</div>
+            <p class="project-description">
+              跨平台现场操作应用，集成 GIS、实时同步和离线优先架构
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">React Native</span>
+              <span class="tech-tag">NativeBase</span>
+              <span class="tech-tag">TypeScript</span>
+              <span class="tech-tag">SQLite</span>
+              <span class="tech-tag">GIS</span>
+            </div>
+          </div>
+          
+          <div class="project-item">
+            <div class="project-name">水表管理系统</div>
+            <p class="project-description">
+              全栈解决方案，包含 Python FastAPI 后端、React 管理门户和 React Native 移动应用，用于自动抄表
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Python FastAPI</span>
+              <span class="tech-tag">React</span>
+              <span class="tech-tag">React Native</span>
+              <span class="tech-tag">Node.js</span>
+            </div>
+          </div>
+          
+          <div class="project-item">
+            <div class="project-name">AI 水表识别</div>
+            <p class="project-description">
+              机器学习 OCR 系统，通过自定义模型训练实现高精度自动读数
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">机器学习</span>
+              <span class="tech-tag">OCR</span>
+              <span class="tech-tag">Python</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-课程: 计算机基础，微机原理，数据库，高级程序设计，图像处理，摄影学
+    <!-- NIWA -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">NIWA</div>
+          <div class="timeline-role">Web 和机器学习开发工程师（实习）</div>
+          <div class="timeline-location">基督城</div>
+        </div>
+        <div class="timeline-date">2024年7月 - 2025年2月</div>
+      </div>
+      
+      <div class="timeline-content">
+        <p class="timeline-description">
+          构建水文预测系统，使用 FastAPI、PostgreSQL、React 和通过 GitLab CI/CD 的 Docker 化服务。
+        </p>
+        
+        <div class="timeline-achievements">
+          <ul>
+            <li>使用 FastAPI 开发 RESTful API，用于数据摄取和模型输出</li>
+            <li>使用 React.js 和 Leaflet.js 构建 GIS 仪表板，实现交互式可视化</li>
+            <li>使用 Docker 容器化服务，并使用 GitLab CI/CD 自动化部署</li>
+            <li>集成 TensorFlow 模型（LSTM/CNN）和 R 预处理作为后端服务</li>
+            <li class="highlight">在2023年新西兰水文学会年会上展示该项目，获得行业专家认可</li>
+          </ul>
+        </div>
+        
+        <div class="project-tech">
+          <span class="tech-tag">TensorFlow</span>
+          <span class="tech-tag">React.js</span>
+          <span class="tech-tag">Tailwind</span>
+          <span class="tech-tag">机器学习</span>
+          <span class="tech-tag">GIS</span>
+          <span class="tech-tag">Python</span>
+          <span class="tech-tag">FastAPI</span>
+          <span class="tech-tag">PostgreSQL</span>
+          <span class="tech-tag">R</span>
+        </div>
+      </div>
+    </div>
 
-## 获奖 & 原创性
+    <!-- 爱尔眼科 -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">爱尔眼科医院集团</div>
+          <div class="timeline-role">高级全栈开发工程师 & 项目经理</div>
+          <div class="timeline-location">中国</div>
+        </div>
+        <div class="timeline-date">2019年4月 - 2023年11月</div>
+      </div>
+      
+      <div class="timeline-content">
+        <p class="timeline-description">
+          领导6人开发团队构建多模块医疗 SaaS 平台，负责冲刺规划、任务分配和利益相关者沟通。建立文档标准和 Git 工作流程规范。
+        </p>
+        
+        <div class="timeline-projects">
+          <h4>核心项目</h4>
+          
+          <div class="project-item">
+            <div class="project-name">实验室信息系统（LIS）- 核心开发负责人</div>
+            <ul class="timeline-achievements">
+              <li>使用 Spring Cloud 构建云原生微服务平台，实现服务发现、熔断器和配置管理</li>
+              <li class="highlight">通过索引、查询重构和 Redis 缓存优化 SQL 查询，性能提升 70%</li>
+              <li>确保从腾讯云到私有云的零停机迁移，提升系统可靠性和性能</li>
+              <li class="highlight">通过实施 HL7 标准接口，实现与 100+ 医疗设备的无缝集成</li>
+              <li>使用 Jenkins、Docker 和 Kubernetes 自动化 CI/CD 流水线，将部署时间从数天缩短至数小时</li>
+            </ul>
+            <div class="project-tech">
+              <span class="tech-tag">Java</span>
+              <span class="tech-tag">Spring Cloud</span>
+              <span class="tech-tag">Spring Boot</span>
+              <span class="tech-tag">MyBatis</span>
+              <span class="tech-tag">Kafka</span>
+              <span class="tech-tag">Redis</span>
+              <span class="tech-tag">Oracle</span>
+              <span class="tech-tag">Docker</span>
+              <span class="tech-tag">Kubernetes</span>
+              <span class="tech-tag">ELK Stack</span>
+              <span class="tech-tag">Jenkins</span>
+            </div>
+          </div>
+          
+          <div class="project-item">
+            <div class="project-name">实验室通讯系统（C#）</div>
+            <ul class="timeline-achievements">
+              <li>在 500+ 医院实验室开发和部署 C# 应用程序</li>
+              <li class="highlight">通过 HL7 和自定义 USB/以太网网关实时集成 4,000+ 设备</li>
+              <li class="highlight">确保每年 1000万+ 实验室结果的 99.9% 准确性和安全传输</li>
+            </ul>
+            <div class="project-tech">
+              <span class="tech-tag">C#</span>
+              <span class="tech-tag">.NET Framework</span>
+              <span class="tech-tag">HL7</span>
+              <span class="tech-tag">接口网关</span>
+            </div>
+          </div>
+          
+          <div class="project-item">
+            <div class="project-name">企业医疗套件（5大系统）</div>
+            <ul class="timeline-achievements">
+              <li>为5个主要医院模块（患者、医生、药房、计费、人力资源）设计后端系统</li>
+              <li class="highlight">支持 10,000+ 并发用户和 100K+ 日交易量</li>
+              <li>将系统迁移到 Kubernetes，应用 SQL 和 Redis 性能优化</li>
+            </ul>
+            <div class="project-tech">
+              <span class="tech-tag">Spring Boot</span>
+              <span class="tech-tag">VUE</span>
+              <span class="tech-tag">React.js</span>
+              <span class="tech-tag">Docker</span>
+              <span class="tech-tag">Oracle</span>
+              <span class="tech-tag">MongoDB</span>
+              <span class="tech-tag">Kafka</span>
+              <span class="tech-tag">Redis</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="timeline-achievements">
+          <h4>影响与规模</h4>
+          <ul>
+            <li class="highlight">支持 500+ 机构的 10,000+ 日活跃用户，系统正常运行时间达 99.9%</li>
+            <li>将查询响应时间缩短至1秒以内，显著提高部署效率</li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-- CSDN博客专家，2019年CSDN十大博客之星
-- 发表超过300篇原创技术文章，总访问量达190万次
+    <!-- 传智播客 -->
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">传智播客集团</div>
+          <div class="timeline-role">全栈开发工程师 & 讲师</div>
+          <div class="timeline-location">中国</div>
+        </div>
+        <div class="timeline-date">2017年4月 - 2019年4月</div>
+      </div>
+      
+      <div class="timeline-content">
+        <p class="timeline-description">
+          提供高质量的项目式培训课程，同时领导关键全栈应用的开发，展示最佳实践和行业标准开发技术。
+        </p>
+        
+        <div class="timeline-projects">
+          <h4>核心项目</h4>
+          
+          <div class="project-item">
+            <div class="project-name">易学在线教育平台</div>
+            <p class="project-description">
+              全栈在线教育系统，用于课程安排、注册和用户进度跟踪。支持 1,000+ 并发用户。
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Spring Boot</span>
+              <span class="tech-tag">JPA</span>
+              <span class="tech-tag">Vue.js</span>
+              <span class="tech-tag">MySQL</span>
+              <span class="tech-tag">Redis</span>
+              <span class="tech-tag">Docker</span>
+            </div>
+          </div>
+          
+          <div class="project-item">
+            <div class="project-name">智慧农场物联网平台</div>
+            <p class="project-description">
+              智慧农业平台，将传感器数据与环境控制逻辑集成。使用 React.js 构建实时仪表板，使用 MQTT 进行边缘设备通信。
+            </p>
+            <div class="project-tech">
+              <span class="tech-tag">Spring Cloud</span>
+              <span class="tech-tag">React.js</span>
+              <span class="tech-tag">MongoDB</span>
+              <span class="tech-tag">MQTT</span>
+              <span class="tech-tag">Kubernetes</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="timeline-achievements">
+          <h4>影响</h4>
+          <ul>
+            <li class="highlight">培训和指导 1,000+ 学生，为他们提供实践项目经验和行业就绪技能</li>
+            <li>交付两个生产级项目，展示现代全栈架构，作为学生学习的模板</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-## 出版物
+<section class="cv-section">
+  <h2>教育背景</h2>
+  
+  <div class="education-item">
+    <div class="education-header">
+      <div>
+        <div class="education-school">林肯大学（新西兰）</div>
+        <div class="education-degree">应用计算硕士（GPA: 7.778）</div>
+      </div>
+      <div class="education-date">2023年11月 - 2024年11月</div>
+    </div>
+    <div class="education-details">
+      <strong>专业方向：</strong>机器学习、Python、Web 开发、GIS
+    </div>
+  </div>
+  
+  <div class="education-item">
+    <div class="education-header">
+      <div>
+        <div class="education-school">航空大学</div>
+        <div class="education-degree">数据分析与信息系统学士</div>
+      </div>
+      <div class="education-date">1999年9月 - 2003年7月</div>
+    </div>
+    <div class="education-details">
+      <strong>专业方向：</strong>数据分析与信息系统
+    </div>
+  </div>
+</section>
 
-`2023`
-《你身边的算法：面试、晋升与工程》(繁体中文版) Kindle电子书, 亚马逊
+<section class="cv-section">
+  <h2>开源贡献</h2>
+  
+  <ul class="achievement-list">
+    <li class="achievement-item">
+      <strong>AI 聊天机器人微信小程序（2023）：</strong>开发用于 AI 驱动聊天机器人集成的小程序，通过简化的 NLP 解决方案增强用户参与度。
+    </li>
+    <li class="achievement-item">
+      <strong>GPT 代理项目（2023）：</strong>构建 GPT 集成的代理工具，以提高可访问性和响应效率。
+    </li>
+    <li class="achievement-item">
+      <strong>AnyMK 单页应用（2018）：</strong>创建轻量级 SPA 框架，用于快速前端开发。
+    </li>
+    <li class="achievement-item">
+      <strong>MOON 脚手架（2017）：</strong>设计模块化脚手架，加速全栈项目开发。
+    </li>
+  </ul>
+</section>
 
-## 项目开发经验
+<section class="cv-section">
+  <h2>出版物与成就</h2>
+  
+  <ul class="achievement-list">
+    <li class="achievement-item">
+      <strong>出版书籍：</strong>《你身边的算法：面试、晋升与工程》（2023）
+    </li>
+    <li class="achievement-item">
+      <strong>CSDN 博客专家：</strong>被评为2019年十大博客之星，发表 300+ 篇原创技术文章，总访问量 190万+
+    </li>
+    <li class="achievement-item">
+      <strong>微软认证：</strong>Azure AI 基础（AI-900）（2024）
+    </li>
+  </ul>
+</section>
 
-`2019.04 - 2023.12`
-__爱尔实验室信息系统 (ALIS) - 主导项目__
-- 领导实验室信息系统 (LIS) 与各种医疗设备的无缝集成，遵循HL7标准，提高了互操作性和数据准确性。
-- 设计并实施了ALIS内的质量控制模块，建立了健全的实验室测试结果的质量保证协议，从而减少了错误并提高了可靠性。
-- 开发并部署了ALIS系统的综合性普通和病理报告模块，简化了生成精确和详细的实验室报告的过程，以便临床决策。
-
-`2022.11 - 2023.12`
-__医院等级评审系统 (AGRV) - 主导项目__
-- 领导整个系统的开发，包括设计、开发、测试和部署
-- 协调任务以确保按时完成项目
-- 与相关医院部门沟通和协调
-- 参与系统测试和部署，确保系统质量和稳定性
-- 提升了技术技能、团队合作和解决问题的能力
-
-`2019.04 - 2023.05`
-__互联网医院系统__
-- 负责管理患者信息、预约和治疗流程
-- 与医院内部各部门紧密合作
-- 参与需求分析、系统设计和开发测试
-- 确保系统稳定性和功能完整性
-
-`2022.10 - 2023.03`
-__临床路径管理系统__
-- 参与需求分析和讨论
-- 参与基础数据维护和配置管理，确保系统数据的准确性和完整性
-- 参与系统测试和验收，确保质量和稳定性
-
-`2021.10 - 2022.05`
-__供应链门户系统 (ASCP)__
-- 作为项目架构师和开发经理，参与需求分析和定义
-- 设计项目架构，确保可扩展性、可维护性和可靠性
-- 开发基本功能模块以实现系统的基本特性
-- 管理并协调开发和测试团队，提高合作效率
-
-`2018.10 - 2019.03`
-__智慧农业物联网__
-- 负责基于spring cloud的微服务维护和开发
-- 研究和开发相关中间件产品
-- 领导整体技术和业务架构规划
-
-`2018.02 - 2018.04`
-__AnyMK单页应用__
-- 响应式单页应用，采用轻量级微服务架构
-- 支持多种数据库，并使用JSON进行数据交互，实现前后端分离
-- 引入了quartz定时任务和云存储服务
-
-`2018.01 - 2018.11`
-__IT易学在线教育平台__
-- 使用SpringCloud开发了一套主流的微服务在线教育解决方案
-- 领导技术选择、框架搭建以及接口和功能开发
-- 设置开发环境、服务器部署和源代码管理
-- 参与创新产品解决方案设计和技术讨论
-
-`2017.06 - 2017.11`
-__MOON脚手架__
-- 使用SpringBoot开发了一个开源后端脚手架项目
-- 实现了按钮级别的访问控制，并使用JSON进行数据交互，实现了前后端分离
-- 引入了quartz定时任务和云存储服务
-
-`2017.01 - 2017.03`
-__一力钢铁网（电商）__
-- 为钢厂和贸易商提供在线钢材销售服务
-- 开发了集采购、物流、加工和供应链金融于一体的全面钢材采购解决方案
-- 根据不同产品类别实施智能供应链金融产品
-- 利用物联网和区块链技术构建了互联网智能云物流系统
-
-`2016.10 - 2016.12`
-__农业可追溯平台__
-- 负责猪肉产品质量可追溯系统的项目管理
-- 负责项目开发、测试和维护支持
-- 全面管理和控制项目进度
-- 及时完成公司分配的任务
-
-<!-- ### 页脚
-
-最后更新：2024年1月 -->
+<section class="cv-section">
+  <h2>志愿者经历</h2>
+  
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-header">
+        <div>
+          <div class="timeline-company">回收设备（RAD）俱乐部</div>
+          <div class="timeline-role">设备维修专家（志愿者）</div>
+          <div class="timeline-location">基督城</div>
+        </div>
+        <div class="timeline-date">2024年3月 - 2024年10月</div>
+      </div>
+      
+      <div class="timeline-content">
+        <ul class="timeline-achievements">
+          <li>协助回收和翻新设备，促进可持续技术使用</li>
+          <li>提供技术支持和创新解决方案，延长设备生命周期</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

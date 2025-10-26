@@ -1,0 +1,306 @@
+/* Modern CV Theme - Print Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 11pt;
+  line-height: 1.4;
+  color: #000;
+  background: #fff;
+}
+
+#main {
+  width: 100%;
+  max-width: 100%;
+}
+
+#content {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+/* Hide dark mode toggle */
+.dark-mode-toggle {
+  display: none !important;
+}
+
+/* Header */
+.cv-header {
+  text-align: center;
+  padding: 1.5rem 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #000;
+}
+
+.cv-header h1 {
+  font-size: 24pt;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.cv-tagline {
+  font-size: 12pt;
+  margin-bottom: 0.75rem;
+}
+
+.cv-contact {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: 10pt;
+}
+
+.cv-contact a {
+  color: #000;
+  text-decoration: none;
+}
+
+.cv-meta {
+  margin-top: 0.5rem;
+  font-size: 9pt;
+  color: #333;
+}
+
+/* Sections */
+.cv-section {
+  margin-bottom: 1.5rem;
+  page-break-inside: avoid;
+}
+
+.cv-section h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid #000;
+}
+
+.cv-section h3 {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.cv-section h4 {
+  font-size: 11pt;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.cv-section p {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+/* Summary */
+.cv-summary {
+  padding: 0.75rem;
+  border-left: 3px solid #000;
+  margin-bottom: 1rem;
+  font-size: 10pt;
+}
+
+/* Skills */
+.skills-category {
+  margin-bottom: 1rem;
+}
+
+.skills-category h3 {
+  font-size: 10pt;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.skills-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.skill-tag {
+  display: inline-block;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid #333;
+  border-radius: 3px;
+  font-size: 9pt;
+}
+
+/* Timeline */
+.timeline {
+  position: relative;
+  padding-left: 0;
+}
+
+.timeline::before {
+  display: none;
+}
+
+.timeline-item {
+  margin-bottom: 1.5rem;
+  page-break-inside: avoid;
+}
+
+.timeline-item::before {
+  display: none;
+}
+
+.timeline-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-company {
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.timeline-role {
+  font-size: 11pt;
+  font-weight: bold;
+  margin-top: 0.15rem;
+}
+
+.timeline-date {
+  font-size: 10pt;
+  color: #333;
+}
+
+.timeline-location {
+  font-size: 9pt;
+  color: #666;
+}
+
+.timeline-content {
+  padding: 0.5rem 0;
+  border: none;
+  box-shadow: none;
+}
+
+.timeline-description {
+  font-size: 10pt;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-achievements ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.timeline-achievements li {
+  padding-left: 1rem;
+  margin-bottom: 0.25rem;
+  font-size: 10pt;
+}
+
+.timeline-achievements li::before {
+  content: '• ';
+  margin-right: 0.25rem;
+}
+
+.project-item {
+  padding: 0.5rem 0;
+  margin-bottom: 0.5rem;
+  border-left: 2px solid #333;
+  padding-left: 0.5rem;
+}
+
+.project-name {
+  font-size: 10pt;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.project-description {
+  font-size: 9pt;
+  margin-bottom: 0.25rem;
+}
+
+.project-tech {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.tech-tag {
+  display: inline-block;
+  padding: 0.1rem 0.3rem;
+  border: 1px solid #666;
+  border-radius: 2px;
+  font-size: 8pt;
+}
+
+/* Education */
+.education-item {
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+  border: none;
+  box-shadow: none;
+  page-break-inside: avoid;
+}
+
+.education-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+}
+
+.education-school {
+  font-size: 11pt;
+  font-weight: bold;
+}
+
+.education-degree {
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.education-date {
+  font-size: 9pt;
+}
+
+.education-details {
+  font-size: 9pt;
+}
+
+/* Achievements */
+.achievement-list {
+  list-style: none;
+  padding: 0;
+}
+
+.achievement-item {
+  padding: 0.5rem 0;
+  margin-bottom: 0.5rem;
+  border-left: 2px solid #000;
+  padding-left: 0.5rem;
+  box-shadow: none;
+  page-break-inside: avoid;
+}
+
+/* Links */
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
+a[href^="http"]:after {
+  content: " (" attr(href) ")";
+  font-size: 8pt;
+  color: #666;
+}
+
+/* Remove animations */
+.cv-section {
+  opacity: 1 !important;
+  transform: none !important;
+  animation: none !important;
+}
+
