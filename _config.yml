@@ -1,2 +1,17 @@
-markdown:   kramdown
-style:  modern
+# Jekyll configuration for CV site
+markdown: kramdown
+style: modern
+
+# Build settings
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+# Exclude files
+exclude:
+  - README.md
+  - README_UPDATE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
