@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: 史振洲 (Luke) - 全栈软件工程师
+title: Luke - 全栈软件工程师
 ---
 
 <!-- 语言切换 -->
@@ -9,7 +9,7 @@ title: 史振洲 (Luke) - 全栈软件工程师
 </div>
 
 <div class="cv-header">
-  <h1>史振洲 (Luke)</h1>
+  <h1>Luke</h1>
   <p class="cv-tagline">全栈软件工程师 | 机器学习爱好者 | 10年以上经验</p>
   
   <div class="cv-contact">
